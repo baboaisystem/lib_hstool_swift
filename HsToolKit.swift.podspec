@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HsToolKit.swift'
   s.module_name      = 'HsToolKit'
-  s.version          = '0.0.1'
+  s.version          = '1.3.0'
   s.summary          = 'NetworkManager, Logger'
 
   s.homepage         = 'https://github.com/baboaisystem/lib_hstool_swift'
